@@ -1,8 +1,6 @@
 package oopdemo;
 
 public class Notes {
-
-	
 	/*
 	 * There are 4 pillars of OOSP in java
 	 * 1. Inheritance
@@ -17,8 +15,9 @@ public class Notes {
 	 * 
 	 * Adv: By using inheritance the information becomes more managable and in hirechical form.
 	 * 
-	 * How to achieve: In other words we can say that an inheritance is relationship between super class and sub class.
-Inheritance relationship is created by using keyword"extend"
+	 * How to achieve: In other words we can say that an inheritance is relationship between 
+	 * super class and sub class.
+Inheritance relationship is created by using keyword "extend"
 
 
       why use inheritance:
